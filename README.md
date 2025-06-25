@@ -69,8 +69,16 @@
 
 ---
 
-## 💡 Tooling Suggestions for Enhanced Visibility (Optional)
+## 🛠 Setup Instructions for Team
+1. Clone the repo
+2. Add your name to the **Team Members** table
+3. Every Monday, update your entry in the **Weekly Updates** table
+4. Link PRs and flag blockers clearly
+5. Update goals in **Sprint Goals & Milestones**
 
+---
+
+## 💡 Tooling Suggestions for Enhanced Visibility 
 * **GitHub Projects:** Utilize GitHub's native project boards for sprint planning, tracking issues, and visualizing progress (Kanban or Scrum boards). This integrates directly with code.
 * **Slack Bot Integration:** A simple Slack bot could remind team members to update their sections in the `WEEKLY_REPORT_TEMPLATE.md` and/or pull summaries from GitHub Project boards for daily stand-ups.
 * **Notion Database (for broader context):** While GitHub is for technical specifics, Notion could serve as a higher-level knowledge base or a client-facing dashboard that pulls summarized data or links to GitHub reports for non-technical stakeholders.
