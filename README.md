@@ -1,7 +1,9 @@
 # Weekly Technical Team Report - [Team Name/Squad Name]
 
 **Reporting Period:** [Start Date] - [End Date]
+
 **Date Generated:** [Current Date]
+
 **Prepared By:** [Team Lead Name]
 
 ---
